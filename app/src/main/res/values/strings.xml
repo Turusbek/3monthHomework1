@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3monthHomework1</string>
+    <string name="gmail">Gmail</string>
+    <string name="subject">Subject</string>
+    <string name="massage">Massage</string>
+    <string name="btn">SEND</string>
+
+
+</resources>
